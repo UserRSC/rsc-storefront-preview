@@ -1,0 +1,671 @@
+[
+ {
+  "id": 1,
+  "sku": "FOAM75MM 24M",
+  "name": "75 mm EPS Foam Cladding, 2.4 × 1.2 m",
+  "url": "75-mm-eps-foam-cladding-2-4-x-1-2-m.html",
+  "image": "media/products/foam75mm-24m.png",
+  "price": 54.9,
+  "unit": "sheet",
+  "perUnit": "per sheet",
+  "unitPlural": "sheets",
+  "facts": [
+   {
+    "label": "Dimensions",
+    "value": "2400 × 1200 mm"
+   },
+   {
+    "label": "Thickness",
+    "value": "75 mm"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensions",
+    "value": "2400 × 1200 mm"
+   },
+   {
+    "label": "Thickness",
+    "value": "75 mm"
+   },
+   {
+    "label": "Coverage",
+    "value": "2.88 m² per sheet"
+   },
+   {
+    "label": "Material",
+    "value": "Expanded polystyrene (EPS), fire-retardant"
+   },
+   {
+    "label": "Colour",
+    "value": "White"
+   },
+   {
+    "label": "Grade / rating",
+    "value": "Fire-retardant (FR) grade"
+   }
+  ],
+  "inStock": true,
+  "availability": {
+   "code": "in-stock",
+   "label": "In stock",
+   "style": "stock",
+   "class": "rsc-badge rsc-badge--stock"
+  },
+  "category": "EPS Cladding",
+  "categoryUrl": "eps-cladding.html",
+  "short": "Standard 75 mm EPS cladding sheet for rendered facades. Sold per sheet."
+ },
+ {
+  "id": 2,
+  "sku": "FOAM100MM 24M",
+  "name": "100 mm EPS Foam Cladding, 2.4 × 1.2 m",
+  "url": "100-mm-eps-foam-cladding-2-4-x-1-2-m.html",
+  "image": "media/products/foam100mm-24m.png",
+  "price": 69.9,
+  "unit": "sheet",
+  "perUnit": "per sheet",
+  "unitPlural": "sheets",
+  "facts": [
+   {
+    "label": "Dimensions",
+    "value": "2400 × 1200 mm"
+   },
+   {
+    "label": "Thickness",
+    "value": "100 mm"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensions",
+    "value": "2400 × 1200 mm"
+   },
+   {
+    "label": "Thickness",
+    "value": "100 mm"
+   },
+   {
+    "label": "Coverage",
+    "value": "2.88 m² per sheet"
+   },
+   {
+    "label": "Material",
+    "value": "Expanded polystyrene (EPS), fire-retardant"
+   },
+   {
+    "label": "Colour",
+    "value": "White"
+   },
+   {
+    "label": "Grade / rating",
+    "value": "Fire-retardant (FR) grade"
+   }
+  ],
+  "inStock": true,
+  "availability": {
+   "code": "in-stock",
+   "label": "In stock",
+   "style": "stock",
+   "class": "rsc-badge rsc-badge--stock"
+  },
+  "category": "EPS Cladding",
+  "categoryUrl": "eps-cladding.html",
+  "short": "Thicker 100 mm EPS cladding sheet for higher insulation values. Sold per sheet."
+ },
+ {
+  "id": 3,
+  "sku": "FOAM50MM 24M",
+  "name": "50 mm EPS Foam Cladding, 2.4 × 1.2 m",
+  "url": "50-mm-eps-foam-cladding-2-4-x-1-2-m.html",
+  "image": "media/products/foam50mm-24m.png",
+  "price": 39.9,
+  "unit": "sheet",
+  "perUnit": "per sheet",
+  "unitPlural": "sheets",
+  "facts": [
+   {
+    "label": "Dimensions",
+    "value": "2400 × 1200 mm"
+   },
+   {
+    "label": "Thickness",
+    "value": "50 mm"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensions",
+    "value": "2400 × 1200 mm"
+   },
+   {
+    "label": "Thickness",
+    "value": "50 mm"
+   },
+   {
+    "label": "Coverage",
+    "value": "2.88 m² per sheet"
+   },
+   {
+    "label": "Material",
+    "value": "Expanded polystyrene (EPS), fire-retardant"
+   },
+   {
+    "label": "Colour",
+    "value": "White"
+   },
+   {
+    "label": "Grade / rating",
+    "value": "Fire-retardant (FR) grade"
+   }
+  ],
+  "inStock": false,
+  "availability": {
+   "code": "out-of-stock",
+   "label": "Out of stock",
+   "style": "out",
+   "class": "rsc-badge rsc-badge--out"
+  },
+  "category": "EPS Cladding",
+  "categoryUrl": "eps-cladding.html",
+  "short": "Thin 50 mm EPS cladding sheet for feature walls and infill. Sold per sheet."
+ },
+ {
+  "id": 4,
+  "sku": "RSC-XPS30-1260",
+  "name": "30 mm XPS Insulation Board, 1.25 × 0.6 m",
+  "url": "30-mm-xps-insulation-board-1-25-x-0-6-m.html",
+  "image": "media/products/rsc-xps30-1260.png",
+  "price": 24.5,
+  "unit": "sheet",
+  "perUnit": "per sheet",
+  "unitPlural": "sheets",
+  "facts": [
+   {
+    "label": "Dimensions",
+    "value": "1250 × 600 mm"
+   },
+   {
+    "label": "Thickness",
+    "value": "30 mm"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensions",
+    "value": "1250 × 600 mm"
+   },
+   {
+    "label": "Thickness",
+    "value": "30 mm"
+   },
+   {
+    "label": "Coverage",
+    "value": "0.75 m² per sheet"
+   },
+   {
+    "label": "Material",
+    "value": "Extruded polystyrene (XPS)"
+   },
+   {
+    "label": "Colour",
+    "value": "Blue"
+   },
+   {
+    "label": "Grade / rating",
+    "value": "300 kPa compressive strength"
+   }
+  ],
+  "inStock": true,
+  "availability": {
+   "code": "in-stock",
+   "label": "In stock",
+   "style": "stock",
+   "class": "rsc-badge rsc-badge--stock"
+  },
+  "category": "XPS Insulation",
+  "categoryUrl": "xps-insulation.html",
+  "short": "Rigid 30 mm XPS board for slab edges and wet areas. Sold per sheet."
+ },
+ {
+  "id": 5,
+  "sku": "RSC-XPS50-1260",
+  "name": "50 mm XPS Insulation Board, 1.25 × 0.6 m",
+  "url": "50-mm-xps-insulation-board-1-25-x-0-6-m.html",
+  "image": "media/products/rsc-xps50-1260.png",
+  "price": 36.9,
+  "unit": "sheet",
+  "perUnit": "per sheet",
+  "unitPlural": "sheets",
+  "facts": [
+   {
+    "label": "Dimensions",
+    "value": "1250 × 600 mm"
+   },
+   {
+    "label": "Thickness",
+    "value": "50 mm"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensions",
+    "value": "1250 × 600 mm"
+   },
+   {
+    "label": "Thickness",
+    "value": "50 mm"
+   },
+   {
+    "label": "Coverage",
+    "value": "0.75 m² per sheet"
+   },
+   {
+    "label": "Material",
+    "value": "Extruded polystyrene (XPS)"
+   },
+   {
+    "label": "Colour",
+    "value": "Blue"
+   },
+   {
+    "label": "Grade / rating",
+    "value": "300 kPa compressive strength"
+   }
+  ],
+  "inStock": true,
+  "availability": {
+   "code": "in-stock",
+   "label": "In stock",
+   "style": "stock",
+   "class": "rsc-badge rsc-badge--stock"
+  },
+  "category": "XPS Insulation",
+  "categoryUrl": "xps-insulation.html",
+  "short": "Rigid 50 mm XPS board for higher-load insulation. Sold per sheet."
+ },
+ {
+  "id": 6,
+  "sku": "RSC-RND-BASE20",
+  "name": "Polymer Base Coat Render, 20 kg",
+  "url": "polymer-base-coat-render-20-kg.html",
+  "image": "media/products/rsc-rnd-base20.png",
+  "price": 38.5,
+  "unit": "20 kg bag",
+  "perUnit": "per 20 kg bag",
+  "unitPlural": "20 kg bags",
+  "facts": [
+   {
+    "label": "Pack size",
+    "value": "20 kg"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Pack size",
+    "value": "20 kg"
+   },
+   {
+    "label": "Coverage",
+    "value": "Approx. 4 m² at 4 mm"
+   },
+   {
+    "label": "Material",
+    "value": "Polymer-modified cement render"
+   },
+   {
+    "label": "Colour",
+    "value": "Grey"
+   }
+  ],
+  "inStock": true,
+  "availability": {
+   "code": "in-stock",
+   "label": "In stock",
+   "style": "stock",
+   "class": "rsc-badge rsc-badge--stock"
+  },
+  "category": "Render & Texture",
+  "categoryUrl": "render-texture.html",
+  "short": "Polymer-modified base coat for EPS, AAC and masonry. Sold per 20 kg bag."
+ },
+ {
+  "id": 7,
+  "sku": "RSC-TEX-ACR15",
+  "name": "Acrylic Texture Coat, Fine, 15 L",
+  "url": "acrylic-texture-coat-fine-15-l.html",
+  "image": "media/products/rsc-tex-acr15.png",
+  "price": 119,
+  "unit": "15 L pail",
+  "perUnit": "per 15 L pail",
+  "unitPlural": "15 L pails",
+  "facts": [
+   {
+    "label": "Pack size",
+    "value": "15 L"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Pack size",
+    "value": "15 L"
+   },
+   {
+    "label": "Coverage",
+    "value": "Approx. 20–25 m² per pail"
+   },
+   {
+    "label": "Material",
+    "value": "Acrylic texture coating"
+   },
+   {
+    "label": "Colour",
+    "value": "White (tint base)"
+   },
+   {
+    "label": "Grade / rating",
+    "value": "Fine 1 mm grain"
+   }
+  ],
+  "inStock": true,
+  "availability": {
+   "code": "in-stock",
+   "label": "In stock",
+   "style": "stock",
+   "class": "rsc-badge rsc-badge--stock"
+  },
+  "category": "Render & Texture",
+  "categoryUrl": "render-texture.html",
+  "short": "Fine-grain acrylic finish coat, ready to tint. Sold per 15 L pail."
+ },
+ {
+  "id": 8,
+  "sku": "RSC-MESH-160",
+  "name": "Alkali-Resistant Fibreglass Mesh, 160 g/m²",
+  "url": "alkali-resistant-fibreglass-mesh-160-g-m2.html",
+  "image": "media/products/rsc-mesh-160.png",
+  "price": 89,
+  "unit": "roll",
+  "perUnit": "per roll",
+  "unitPlural": "rolls",
+  "facts": [
+   {
+    "label": "Dimensions",
+    "value": "1 m × 50 m"
+   },
+   {
+    "label": "Length",
+    "value": "50 m"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensions",
+    "value": "1 m × 50 m"
+   },
+   {
+    "label": "Length",
+    "value": "50 m"
+   },
+   {
+    "label": "Coverage",
+    "value": "50 m² per roll"
+   },
+   {
+    "label": "Material",
+    "value": "Alkali-resistant fibreglass"
+   },
+   {
+    "label": "Colour",
+    "value": "Orange"
+   },
+   {
+    "label": "Grade / rating",
+    "value": "160 g/m²"
+   }
+  ],
+  "inStock": true,
+  "availability": {
+   "code": "online-only",
+   "label": "Online only",
+   "style": "online",
+   "class": "rsc-badge rsc-badge--online"
+  },
+  "category": "Render & Texture",
+  "categoryUrl": "render-texture.html",
+  "short": "160 g/m² reinforcing mesh for render systems. Sold per 50 m roll."
+ },
+ {
+  "id": 9,
+  "sku": "RSC-MLD-SILL150",
+  "name": "EPS Window Sill Moulding, 150 mm, 2.4 m",
+  "url": "eps-window-sill-moulding-150-mm-2-4-m.html",
+  "image": "media/products/rsc-mld-sill150.png",
+  "price": 42,
+  "unit": "length",
+  "perUnit": "per length",
+  "unitPlural": "lengths",
+  "facts": [
+   {
+    "label": "Dimensions",
+    "value": "150 × 75 mm profile"
+   },
+   {
+    "label": "Length",
+    "value": "2.4 m"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensions",
+    "value": "150 × 75 mm profile"
+   },
+   {
+    "label": "Length",
+    "value": "2.4 m"
+   },
+   {
+    "label": "Material",
+    "value": "EPS, pre-coated with base render"
+   },
+   {
+    "label": "Colour",
+    "value": "Grey (pre-coated)"
+   }
+  ],
+  "inStock": true,
+  "availability": {
+   "code": "special-order",
+   "label": "Special Order",
+   "style": "special",
+   "class": "rsc-badge rsc-badge--special"
+  },
+  "category": "Exterior Mouldings",
+  "categoryUrl": "exterior-mouldings.html",
+  "short": "Pre-coated EPS window sill moulding. Sold per 2.4 m length."
+ },
+ {
+  "id": 10,
+  "sku": "RSC-MLD-BAND200",
+  "name": "EPS Band Moulding, 200 × 50 mm, 2.4 m",
+  "url": "eps-band-moulding-200-x-50-mm-2-4-m.html",
+  "image": "media/products/rsc-mld-band200.png",
+  "price": 38,
+  "unit": "length",
+  "perUnit": "per length",
+  "unitPlural": "lengths",
+  "facts": [
+   {
+    "label": "Dimensions",
+    "value": "200 × 50 mm profile"
+   },
+   {
+    "label": "Length",
+    "value": "2.4 m"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensions",
+    "value": "200 × 50 mm profile"
+   },
+   {
+    "label": "Length",
+    "value": "2.4 m"
+   },
+   {
+    "label": "Material",
+    "value": "EPS, pre-coated with base render"
+   },
+   {
+    "label": "Colour",
+    "value": "Grey (pre-coated)"
+   }
+  ],
+  "inStock": true,
+  "availability": {
+   "code": "special-order",
+   "label": "Special Order",
+   "style": "special",
+   "class": "rsc-badge rsc-badge--special"
+  },
+  "category": "Exterior Mouldings",
+  "categoryUrl": "exterior-mouldings.html",
+  "short": "Flat band moulding for facade features. Sold per 2.4 m length."
+ },
+ {
+  "id": 11,
+  "sku": "2100",
+  "name": "100 mm Starter Channel, 2.5 m",
+  "url": "100-mm-starter-channel-2-5-m.html",
+  "image": "media/products/2100.png",
+  "price": 14.95,
+  "unit": "length",
+  "perUnit": "per length",
+  "unitPlural": "lengths",
+  "facts": [
+   {
+    "label": "Dimensions",
+    "value": "100 mm wide"
+   },
+   {
+    "label": "Length",
+    "value": "2.5 m"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensions",
+    "value": "100 mm wide"
+   },
+   {
+    "label": "Length",
+    "value": "2.5 m"
+   },
+   {
+    "label": "Material",
+    "value": "Powder-coated aluminium"
+   },
+   {
+    "label": "Colour",
+    "value": "Off-white"
+   }
+  ],
+  "inStock": true,
+  "availability": {
+   "code": "in-stock",
+   "label": "In stock",
+   "style": "stock",
+   "class": "rsc-badge rsc-badge--stock"
+  },
+  "category": "Tools & Fixings",
+  "categoryUrl": "tools-fixings.html",
+  "short": "Aluminium starter channel for 100 mm cladding. Sold per 2.5 m length."
+ },
+ {
+  "id": 12,
+  "sku": "9354089000149",
+  "name": "51 mm Yellow Washers, Box of 500",
+  "url": "51-mm-yellow-washers-box-of-500.html",
+  "image": "media/products/9354089000149.png",
+  "price": 68,
+  "unit": "box of 500",
+  "perUnit": "per box of 500",
+  "unitPlural": "boxes of 500",
+  "facts": [
+   {
+    "label": "Dimensions",
+    "value": "51 mm diameter"
+   },
+   {
+    "label": "Pack size",
+    "value": "500 washers per box"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensions",
+    "value": "51 mm diameter"
+   },
+   {
+    "label": "Pack size",
+    "value": "500 washers per box"
+   },
+   {
+    "label": "Material",
+    "value": "Polypropylene"
+   },
+   {
+    "label": "Colour",
+    "value": "Yellow"
+   }
+  ],
+  "inStock": true,
+  "availability": {
+   "code": "in-stock",
+   "label": "In stock",
+   "style": "stock",
+   "class": "rsc-badge rsc-badge--stock"
+  },
+  "category": "Tools & Fixings",
+  "categoryUrl": "tools-fixings.html",
+  "short": "51 mm cladding washers for fixing EPS sheets. Sold per box of 500."
+ },
+ {
+  "id": 13,
+  "sku": "RSC-TOOL-TRW280",
+  "name": "Stainless Finishing Trowel, 280 × 115 mm",
+  "url": "stainless-finishing-trowel-280-x-115-mm.html",
+  "image": "media/products/rsc-tool-trw280.png",
+  "price": 49,
+  "unit": "each",
+  "perUnit": "each",
+  "unitPlural": "each",
+  "facts": [
+   {
+    "label": "Dimensions",
+    "value": "280 × 115 mm blade"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensions",
+    "value": "280 × 115 mm blade"
+   },
+   {
+    "label": "Material",
+    "value": "Stainless steel blade with soft-grip handle"
+   }
+  ],
+  "inStock": true,
+  "availability": {
+   "code": "online-only",
+   "label": "Online only",
+   "style": "online",
+   "class": "rsc-badge rsc-badge--online"
+  },
+  "category": "Tools & Fixings",
+  "categoryUrl": "tools-fixings.html",
+  "short": "Flexible stainless finishing trowel for render and texture coats. Sold each."
+ }
+]
